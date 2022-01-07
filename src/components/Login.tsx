@@ -186,7 +186,7 @@ export default function Login({getID,getToken,getFirstTimeUser,getDataBaseCoins}
 
         {!newUser && (
           <div className={login.link}>
-            <a href="/login">Forgot password?</a> or{" "}
+            <a href="/stock_market_app">Forgot password?</a> or{" "}
             <span onClick={handleSignUp_anchor}>Sign Up</span>
           </div>
         )}

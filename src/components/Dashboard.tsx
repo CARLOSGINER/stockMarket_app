@@ -114,7 +114,7 @@ function Dashboard({id,token,firstTimeUser,dataBaseCoins}:{id:string,token:strin
                      })
             })
             }
-            navigate('/login')
+            navigate('/stock_market_app')
 
         }catch(error){
             console.log(error)

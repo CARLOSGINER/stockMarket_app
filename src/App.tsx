@@ -31,7 +31,7 @@ function App() {
     <div className="container">
       <Router>
         <Routes>
-          <Route  path="/" element={<Login getID={getID} getToken={getToken} getFirstTimeUser={getFirstTimeUser} getDataBaseCoins={getDataBaseCoins} />}/>
+          <Route  path="/stock_market_app" element={<Login getID={getID} getToken={getToken} getFirstTimeUser={getFirstTimeUser} getDataBaseCoins={getDataBaseCoins} />}/>
           <Route  path="/dashboard" element={<Dashboard id={id} token={token} firstTimeUser={firstTimeUser} dataBaseCoins={dataBaseCoins}/>}/>
           <Route  path="*" element={<Error/>} />
         </Routes>
