@@ -1,6 +1,6 @@
 {
-  "homepage": "http://CARLOSGINER.github.io/crypto_website",
-  "name": "crypto_website",
+  "homepage": "http://CARLOSGINER.github.io/login",
+  "name": "stock_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
