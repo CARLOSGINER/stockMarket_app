@@ -1,27 +1,8 @@
-**CRYPTO APP** 
+> **STOCK APP** 
 
-Data from CoinGecko, Login with authentication, and dashboard
+ **To do** 
 
-___________________________________________________________________________________________________________________________________________________________________________________
+🚧 Issue displaying cards of stocks
 
-*Proyecto* /:octocat: [Visit Webpage Here!](http://CARLOSGINER.github.io/crypto_website)
-
-**AUTOR**
-
-> Carlos Giner 
-
-**TECNOLOGÍAS APLICADAS**
-
-- [x] React.js / Typescript
-- [x] CSS modules / Bootstrap
-
-
-**PENDIENTES**
-
-> CSS modificar tamaño de cartas coin.  
-
-> Hover de logOut.
-
-
-__________________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________
 Carlos Giner © copyright 2021
